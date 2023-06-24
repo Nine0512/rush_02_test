@@ -1,0 +1,3 @@
+/home/nine/Desktop/Other/learning/42bangkok/rush02/cmake-build-debug/CMakeFiles/rush02.dir
+/home/nine/Desktop/Other/learning/42bangkok/rush02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nine/Desktop/Other/learning/42bangkok/rush02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
